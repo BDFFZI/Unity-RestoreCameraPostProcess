@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a969d04d50edb6e44b13860127b297b5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _Mask: {fileID: 8400000, guid: 2bb87aeb82e665d4e975ddacc29b58da, type: 2}
+  - _Clipboard: {fileID: 8400000, guid: 11157b34d15a02c42b1c09a5dec79832, type: 2}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
