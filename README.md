@@ -1,2 +1,2 @@
-# Unity-PartialCameraPostProcess
-让选定物体不参与后处理的渲染
+# Unity-RestoreCameraPostProcess
+把选定物体的原始渲染图像贴回后处理上
